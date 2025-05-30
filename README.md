@@ -8,7 +8,7 @@ No tokens, no rewards — just pure, trustless math battles on the blockchain.
 ## 🚀 What is this?
 
 MathMasterChain lets players test their math skills by answering questions stored immutably on the Ethereum blockchain.  
-All interactions (questions, answers, scores) happen entirely on-chain.
+All interactions (questions, answers, scores) happen entirely on-chain. 
 
 ---
 
