@@ -1,6 +1,6 @@
 # 🧠 MathMasterChain  
   
-**MathMasterChain** is an on-chain math quiz game built with Solidity.  
+**MathMasterChain** is an on-chain math quiz game built with Solidity.    
 No tokens, no rewards — just pure, trustless math battles on the blockchain.  
 
 ---
