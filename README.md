@@ -23,5 +23,5 @@ All interactions (questions, answers, scores) happen entirely on-chain.
   
 ## 📦 Contract Overview
 
-```solidity
+```solidity   
 function addQuestion(string memory question, uint256 answer) public onlyOwner
