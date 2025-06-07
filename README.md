@@ -20,7 +20,7 @@ All interactions (questions, answers, scores) happen entirely on-chain.
 - ⚖️ No tokens, no prizes — just on-chain glory
   
 ---
-
+  
 ## 📦 Contract Overview
 
 ```solidity
