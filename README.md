@@ -11,7 +11,7 @@ MathMasterChain lets players test their math skills by answering questions store
 All interactions (questions, answers, scores) happen entirely on-chain.  
 
 ---
-
+   
 ## ✨ Features
  
 - 🧮 Add math questions directly to the smart contract
