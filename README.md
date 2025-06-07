@@ -18,7 +18,7 @@ All interactions (questions, answers, scores) happen entirely on-chain.
 - ✅ Players answer only once per question
 - 📊 Scores are stored publicly and transparently
 - ⚖️ No tokens, no prizes — just on-chain glory
-
+  
 ---
 
 ## 📦 Contract Overview
