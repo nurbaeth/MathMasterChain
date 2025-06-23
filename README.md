@@ -13,7 +13,7 @@ All interactions (questions, answers, scores) happen entirely on-chain.
 ---
    
 ## ✨ Features
- 
+  
 - 🧮 Add math questions directly to the smart contract
 - ✅ Players answer only once per question
 - 📊 Scores are stored publicly and transparently
